@@ -24,6 +24,6 @@ build/Release
 
 # Dependency directory
 node_modules
-package-log.json
+package-lock.json
 cypress/videos
 cypress/screenshots
